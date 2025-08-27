@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create, edit, and delete notes with title and description
 - Frontend: React + Tailwind CSS for a modern UI
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer      | Technology                  |
 |------------|-----------------------------|
@@ -41,7 +41,7 @@
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
