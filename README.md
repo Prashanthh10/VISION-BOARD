@@ -1,10 +1,10 @@
-# 🧠 VISION BOARD - Full Stack Notes App (MERN)
+#  VISION BOARD - Full Stack Notes App (MERN)
 
 **VISION BOARD** is a beginner-friendly full-stack Notes Application built using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js). It allows users to create, update, and delete notes with a title and description, all in a responsive, real-world styled UI.
 
 ---
 
-## 🔥 Highlights
+##  Highlights
 
 - 🧱 Full-Stack App built with the **MERN Stack**
 - ✨ Perform **CRUD operations** (Create, Read, Update, Delete)
